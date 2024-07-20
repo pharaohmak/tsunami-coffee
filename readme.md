@@ -1,5 +1,15 @@
 # Tsunami Coffee
 
-Use your knowledge of relative units and responsive web design to help Tsunami Coffee make their website come to life.
+Welcome to Tsunami Coffee! This project is a simple webpage for a fictional coffee shop called Tsunami Coffee. The page showcases the coffee shop's mission, products, and location.
 
-Throughout this project, you’ll edit the existing Tsunami Coffee website code so that the website appears correctly on varying screen sizes. In addition, you’ll contribute styles that will make this website more visually appealing.
+## Project Overview
+
+The website includes the following sections:
+
+- **Navigation Bar:** Links to the store, hours, and wholesale pages.
+- **Main Section:** Displays the logo of Tsunami Coffee.
+- **Supporting Section:** Describes the mission and values of Tsunami Coffee.
+- **Rating Section:** Displays a coffee critic's rating of the coffee.
+- **Gallery Section:** Showcases images of the coffee shop's products.
+- **Location Section:** Displays the location of the coffee shop with a map.
+- **Footer:** Contains navigation links and copyright information.
